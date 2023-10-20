@@ -1,4 +1,4 @@
 # Store-App
  
-Firs of all run index.php 
+All you have to do is just run index.php
 
